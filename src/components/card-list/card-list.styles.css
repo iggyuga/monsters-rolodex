@@ -1,17 +1,7 @@
 .card-list {
-<<<<<<< HEAD
   width: 85vw;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
 }
-=======
-	width: 85vw;
-	margin: 0 auto;
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
-	grid-gap: 20px;
-  }
-  
->>>>>>> 3d7d8c24381afc8c8e9358aee4985c910c62278a
