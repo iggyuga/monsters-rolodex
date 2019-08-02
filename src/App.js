@@ -16,6 +16,7 @@ class App extends Component {
     
   }
 
+  // Lexical scoping, the arrow function allows us to target the component from which context it came from
   handleChange = e => {
     this.setState({ searchField: e.target.value })
   }
