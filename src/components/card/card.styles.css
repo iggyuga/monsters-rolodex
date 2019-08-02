@@ -1,4 +1,5 @@
 .card-container {
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   background-color: #95dada;
@@ -15,3 +16,22 @@
 .card-container:hover {
   transform: scale(1.05);
 }
+=======
+	display: flex;
+	flex-direction: column;
+	background-color: #95dada;
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 25px;
+	cursor: pointer;
+	-moz-osx-font-smoothing: grayscale;
+	backface-visibility: hidden;
+	transform: translateZ(0);
+	transition: transform 0.25s ease-out;
+  }
+  
+  .card-container:hover {
+	transform: scale(1.05);
+  }
+  
+>>>>>>> 3d7d8c24381afc8c8e9358aee4985c910c62278a
